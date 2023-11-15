@@ -1,0 +1,12 @@
+{
+  "manifests": {
+    "acme/package-name": {
+      "manifest": {
+        "bundles": {
+          "Flashmer\\ProviderBundle\\FlashmerProviderBundle": ["all"]
+        }
+      },
+      "ref": "29f3ea860ba14d6b4d177e16140dbf4a850d3960"
+    }
+  }
+}

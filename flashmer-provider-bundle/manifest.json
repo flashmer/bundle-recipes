@@ -1,5 +1,0 @@
-{
-  "bundles": {
-    "Flashmer\\ProviderBundle\\FlashmerProviderBundle": ["all"]
-  }
-}
