@@ -1,0 +1,15 @@
+{
+  "manifests": {
+    "flashmer/provider-bundle": {
+      "manifest": {
+        "bundles": {
+          "Flashmer\\UnifiedDataProviders\\FlashmerUnifiedDataProviders": ["all"]
+        },
+        "copy-from-recipe": {
+          "config/etl.yaml": "%CONFIG_DIR%/packages/etl.yaml"
+        }
+      },
+      "ref": "29f3ea860ba14d6b4d177e16140dbf4a850d3960"
+    }
+  }
+}

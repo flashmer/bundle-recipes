@@ -1,6 +1,6 @@
 {
   "recipes": {
-    "flashmer/provider-bundle": [
+    "flashmer/unified-data-providers": [
       "1.0"
     ]
   },
@@ -9,6 +9,6 @@
   "_links": {
     "repository": "github.com/flashmer/bundle-recipes.git",
     "origin_template": "{package}:{version}@github.com/flashmer/bundle-recipes:master",
-    "recipe_template": "https://api.github.com/repos/flashmer/bundle-recipes/contents/{package_dotted}.{version}.json"
+    "recipe_template": "https://api.github.com/repos/flashmer/bundle-recipes/contents/flashmer/unified-data-providers/{version}/manifest.json"
   }
 }
